@@ -1,0 +1,15 @@
+{
+    "name": "anton/model-entity-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Greg",
+            "email": "antonioimportant@gmail.com"
+        }
+    ],
+    "require": {}
+}
